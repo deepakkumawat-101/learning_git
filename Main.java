@@ -20,5 +20,10 @@ public class Main {
     public static void text1(){
         System.out.print("it is this neew fuction");
     }
+
+    public static void text11()
+    {
+        System.out.println("10 is created"); 
+    }
 }
 
